@@ -1,6 +1,6 @@
-var num = 10;
+var num = 5;
 var count = 0;
-for(let i =2; i<10; i++)
+for(let i =1; i<=num; i++)
 {
     if(num%i == 0)
         count++;
